@@ -85,3 +85,4 @@ ul li:hover {
   transform: translate(0%, -50%);
 }
 
+.close:hover {background: #bbb;}
